@@ -1,5 +1,4 @@
-# Your Project's Title...
-Your project's description...
+# aem-xwalk-test
 
 ## Environments
 - Preview: https://main--aem-xwalk-test--stefanseifert.hlx.page/

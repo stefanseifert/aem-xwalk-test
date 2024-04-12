@@ -14,7 +14,7 @@
   /* colors */
   --link-color: #035fe6;
   --link-hover-color: #136ff6;
-  --background-color: white;
+  --background-color: burlywood;
   --light-color: #eee;
   --dark-color: #ccc;
   --text-color: black;
@@ -67,8 +67,6 @@ body {
   color: var(--text-color);
   background-color: var(--background-color);
   display: none;
-  /** Background Color Test **/
-  background-color: burlywood;
 }
 
 body.appear {

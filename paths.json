@@ -1,8 +1,6 @@
 {
   "mappings": [
-    "/content/xwalk-test/:/"
-  ],
-  "includes": [
-    "/content/xwalk-test/"
+    "/content/xwalk-test/:/",
+    "/content/xwalk-test/headers:/.helix/headers.json"
   ]
 }
